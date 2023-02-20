@@ -1,0 +1,8 @@
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\bin\Debug\Grades.exe.config
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\bin\Debug\Grades.exe
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\bin\Debug\Grades.pdb
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\obj\Debug\Grades.csproj.AssemblyReference.cache
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\obj\Debug\Grades.csproj.SuggestedBindingRedirects.cache
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\obj\Debug\Grades.exe
+C:\BelezirevaKazaDaNeMePipash\ZadachaZaIzpitvane-21.02.2023\Grades\obj\Debug\Grades.pdb
